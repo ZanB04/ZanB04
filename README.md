@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Zandre Beukes 👋
 
-<!--
-**ZanB04/ZanB04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Student at Belgium Campus iTversity 
+- 🔭 I’m currently working on Bluetooth for a prototype BrailleDisplay using Docker to simulate the device and an ASP.NET based campus learning management system.
+- 🌱 I’m currently learning ASP.NET and Java
+- 💼 Seeking internship/graduate opportunities in software development
+- 🚀 Skills
+  -Languages: C#, JavaScript, HTML, SQL, CSS
+  -Tools: Git, Docker, Anaconda, Jupyter Notebook, Visual Studio, Visual Studio Code, NetBeans, IntelliJ
+- 📂Projects
+  -BrailleDisplay: Private, contributed.
+📄 CV
+  -Download here: 

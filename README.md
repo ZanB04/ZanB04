@@ -13,4 +13,4 @@
   - CampusLearn platform: WIP.
   - 
 - 📄 CV
-  - Download here: 
+  - Download here: https://github.com/ZanB04/ZanB04/raw/main/Beukes_Zandre_CV.pdf

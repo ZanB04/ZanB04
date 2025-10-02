@@ -9,6 +9,8 @@
   - Languages: C#, JavaScript, HTML, SQL, CSS
   - Tools: Git, Docker, Anaconda, Jupyter Notebook, Visual Studio, Visual Studio Code, NetBeans, IntelliJ
 - 📂Projects
-  - BrailleDisplay: Private, contributed.
+  - BrailleDisplay: Private, Contributions, WIP.
+  - CampusLearn platform: WIP.
+  - 
 - 📄 CV
   - Download here: 
